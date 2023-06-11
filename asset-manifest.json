@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Can/static/css/main.073c9b0a.css",
+    "main.js": "/Can/static/js/main.8c80bdd9.js",
+    "static/js/787.626a797b.chunk.js": "/Can/static/js/787.626a797b.chunk.js",
+    "static/media/logo.svg": "/Can/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Can/index.html",
+    "static/media/seccion2": "/Can/static/media/seccion2.e9f40affb53632fdb99e",
+    "main.073c9b0a.css.map": "/Can/static/css/main.073c9b0a.css.map",
+    "main.8c80bdd9.js.map": "/Can/static/js/main.8c80bdd9.js.map",
+    "787.626a797b.chunk.js.map": "/Can/static/js/787.626a797b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.8c80bdd9.js"
+  ]
+}

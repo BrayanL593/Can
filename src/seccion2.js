@@ -9,7 +9,9 @@ function MyComponent(){
     return(
         <div>
             <h1>
-                Firt nested component
+                Bibliografia de:
+                Tirone José González Orama
+                (Canserbero)
             </h1>
             <ol>
                 <MyItem activity='John'/>
